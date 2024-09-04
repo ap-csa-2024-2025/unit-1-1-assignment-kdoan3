@@ -8,6 +8,7 @@ To run your code, do the following:
 2. Compile the file you wish to run by typing the command `javac fileName.java`, where `fileName` is the name of your file.
 3. Run the file by typing `java fileName`, where `fileName` is the name of your file.
 
+jave fileName
 ## HelloWorld
 Follow along in class for `HelloWorld.java`.
 
